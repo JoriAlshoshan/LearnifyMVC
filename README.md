@@ -28,16 +28,16 @@ Open in Visual Studio
 Update connection string in appsettings.json
 Run migrations or create DB
 Build and run
----
+```
 ## Usage
 Browse tutorials and articles
 Add new articles
 Use contact form
----
+
 ## Contributing
 Open issues or pull requests are welcome.
----
-##Contact
+
+## Contact
 For any questions or feedback:
 jori.alshoshan@gmail.com
 
