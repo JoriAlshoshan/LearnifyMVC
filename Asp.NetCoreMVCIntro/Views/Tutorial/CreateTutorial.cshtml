@@ -1,0 +1,9 @@
+﻿@model Asp.NetCoreMVCIntro.Models.Tutorial
+@{
+	ViewBag.Title = "Create Tutorial";
+}
+
+<form method="post" asp-controller="Tutorial" asp-action="CreateTutorial">
+	@*Partial tag helper*@
+	<partial name="_TutorialFormFields" model="Model" />
+</form>

@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Asp.NetCoreMVCIntro
+build_property.RootNamespace = Asp.NetCoreMVCIntro
+build_property.ProjectDir = C:\Users\jorya\source\repos\Asp.NetCoreMVCIntro\Asp.NetCoreMVCIntro\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jorya\source\repos\Asp.NetCoreMVCIntro\Asp.NetCoreMVCIntro
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Artical/AddNewArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNhbFxBZGROZXdBcnRpY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Artical/DisplayArticlies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNhbFxEaXNwbGF5QXJ0aWNsaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Artical/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNhbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Shared/Components/TutorialMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVHV0b3JpYWxNZW51XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Shared/_TutorialFormFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UdXRvcmlhbEZvcm1GaWVsZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Tutorial/CreateTutorial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxcQ3JlYXRlVHV0b3JpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Tutorial/EditTutorial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxcRWRpdFR1dG9yaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Tutorial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorya/source/repos/Asp.NetCoreMVCIntro/Asp.NetCoreMVCIntro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0b4d9ybz9b

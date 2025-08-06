@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|c:\\users\\jorya\\source\\repos\\asp.netcoremvcintro\\asp.netcoremvcintro\\views\\artical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|solutionrelative:asp.netcoremvcintro\\views\\artical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|c:\\users\\jorya\\source\\repos\\asp.netcoremvcintro\\asp.netcoremvcintro\\views\\tutorial\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|solutionrelative:asp.netcoremvcintro\\views\\tutorial\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|c:\\users\\jorya\\source\\repos\\asp.netcoremvcintro\\asp.netcoremvcintro\\views\\artical\\addnewarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|solutionrelative:asp.netcoremvcintro\\views\\artical\\addnewarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|c:\\users\\jorya\\source\\repos\\asp.netcoremvcintro\\asp.netcoremvcintro\\controllers\\articalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|solutionrelative:asp.netcoremvcintro\\controllers\\articalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|c:\\users\\jorya\\source\\repos\\asp.netcoremvcintro\\asp.netcoremvcintro\\viewmodels\\articalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|solutionrelative:asp.netcoremvcintro\\viewmodels\\articalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|c:\\users\\jorya\\source\\repos\\asp.netcoremvcintro\\asp.netcoremvcintro\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|solutionrelative:asp.netcoremvcintro\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|c:\\users\\jorya\\source\\repos\\asp.netcoremvcintro\\asp.netcoremvcintro\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF7076-02F5-4B7E-8719-D416455C4108}|Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro.csproj|solutionrelative:asp.netcoremvcintro\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Views\\Artical\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.NetCoreMVCIntro\\Views\\Artical\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Views\\Artical\\Index.cshtml",
+              "RelativeToolTip": "Asp.NetCoreMVCIntro\\Views\\Artical\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T07:43:02.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Views\\Tutorial\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.NetCoreMVCIntro\\Views\\Tutorial\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Views\\Tutorial\\Index.cshtml",
+              "RelativeToolTip": "Asp.NetCoreMVCIntro\\Views\\Tutorial\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T07:35:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Repository\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "Asp.NetCoreMVCIntro\\Repository\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Repository\\IArticleRepository.cs",
+              "RelativeToolTip": "Asp.NetCoreMVCIntro\\Repository\\IArticleRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:25:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Repository\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "Asp.NetCoreMVCIntro\\Repository\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Repository\\ArticleRepository.cs",
+              "RelativeToolTip": "Asp.NetCoreMVCIntro\\Repository\\ArticleRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:20:42.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\ViewModels\\ArticalViewModel.cs",
+              "RelativeDocumentMoniker": "Asp.NetCoreMVCIntro\\ViewModels\\ArticalViewModel.cs",
+              "ToolTip": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\ViewModels\\ArticalViewModel.cs",
+              "RelativeToolTip": "Asp.NetCoreMVCIntro\\ViewModels\\ArticalViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:16:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticalController.cs",
+              "DocumentMoniker": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Controllers\\ArticalController.cs",
+              "RelativeDocumentMoniker": "Asp.NetCoreMVCIntro\\Controllers\\ArticalController.cs",
+              "ToolTip": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Controllers\\ArticalController.cs",
+              "RelativeToolTip": "Asp.NetCoreMVCIntro\\Controllers\\ArticalController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:03:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNewArticle.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Views\\Artical\\AddNewArticle.cshtml",
+              "RelativeDocumentMoniker": "Asp.NetCoreMVCIntro\\Views\\Artical\\AddNewArticle.cshtml",
+              "ToolTip": "C:\\Users\\jorya\\source\\repos\\Asp.NetCoreMVCIntro\\Asp.NetCoreMVCIntro\\Views\\Artical\\AddNewArticle.cshtml",
+              "RelativeToolTip": "Asp.NetCoreMVCIntro\\Views\\Artical\\AddNewArticle.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T06:59:36.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
